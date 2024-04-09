@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CasaConstrucao</string>
+    <string name="largura_piso">Largura[cm]</string>
+    <string name="comprimento_piso">Comprimento[cm]</string>
+    <string name="altura_parede">Altura[m]</string>
+    <string name="piso_quantidade">Pisos</string>
+    <string name="largura_chao">Largura[m]</string>
+    <string name="comprimento_chao">Comprimento[m]</string>
+    <string name="pisos_necessarios">Pisos necessários [un.]:</string>
+    <string name="area_piso">Área total de piso [m²]:</string>
+    <string name="preco_total">Preço total [R$]</string>
+    <string name="comprimento_parede">Comprimento[m]</string>
+    <string name="preco_piso">Preço/m² [R$]</string>
+    <string name="preco_tijolo">Preço/milheiro [R$]</string>
+    <string name="tijolos_necessario">Tijolos necessários : </string>
+    <string name="preco_total_tijolos">Preço total de tijolos [R$]: </string>
+    <string name="area_telhado">Área em planta [m²]</string>
+    <string name="preco_telhado">Preço/telha [R$]</string>
+    <string name="vinte_porc">20%</string>
+    <string name="vintecinco_porc">25%</string>
+    <string name="trinta_porc">30%</string>
+</resources>
